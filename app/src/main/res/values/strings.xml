@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UKM BS</string>
+    <string name="ukm">UKM BS</string>
+    <string name="coll">Nama</string>
+    <string name="coll2">Angkatan</string>
+    <string name="coll3">Divisi</string>
+    <string name="row1Nama">Uchok</string>
+    <string name="row2Nama">Cecep</string>
+    <string name="row3Nama">Suheri</string>
+    <string name="row4Nama">Edan</string>
+    <string name="row5Nama">Siti</string>
+    <string name="row6Nama">Seng</string>
+    <string name="row7Nama">Pacul</string>
+    <string name="row8Nama">Tarsis</string>
+    <string name="row9Nama">Yayak</string>
+    <string name="row10Nama">Asa</string>
+    <string name="row11Nama">Istaka</string>
+    <string name="row12Nama">Katiyem</string>
+
+    <string name="ang20">20</string>
+    <string name="ang21">21</string>
+
+    <string name="musik">Musik</string>
+    <string name="tari">Tari</string>
+    <string name="rupa">Rupa</string>
+    <string name="padus">Padus</string>
+    <string name="teater">Teater</string>
+    <string name="perkusi">Perkusi</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
