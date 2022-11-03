@@ -1,4 +1,4 @@
-# Aplikasi Informasi Tentang Rukun Sholat
+# Aplikasi Informasi UKMBS
 *
 *Nama*    : Andra Riantasa W
 *NPM*     : 20753043
